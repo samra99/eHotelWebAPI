@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\RS1 API\\OneDrive_2019-09-12 (1)\\Hotel-Reservation-WebAPI-master\\Hotel.Data\\RestaurantReservation.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\RS1 API\\OneDrive_2019-09-12 (1)\\Hotel-Reservation-WebAPI-master\\Hotel.Data\\RestaurantReservation.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\RS1 API\\OneDrive_2019-09-12 (1)\\Hotel-Reservation-WebAPI-master\\Hotel.Data\\RestaurantReservation.Data.csproj",
+        "projectName": "RestaurantReservation.Data",
+        "projectPath": "C:\\RS1 API\\OneDrive_2019-09-12 (1)\\Hotel-Reservation-WebAPI-master\\Hotel.Data\\RestaurantReservation.Data.csproj",
+        "packagesPath": "C:\\Users\\emrah\\.nuget\\packages\\",
+        "outputPath": "C:\\RS1 API\\OneDrive_2019-09-12 (1)\\Hotel-Reservation-WebAPI-master\\Hotel.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

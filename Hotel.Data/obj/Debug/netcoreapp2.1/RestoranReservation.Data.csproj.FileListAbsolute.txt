@@ -1,0 +1,22 @@
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Data\bin\Debug\netcoreapp2.1\RestoranReservation.Data.deps.json
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Data\bin\Debug\netcoreapp2.1\RestoranReservation.Data.runtimeconfig.json
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Data\bin\Debug\netcoreapp2.1\RestoranReservation.Data.runtimeconfig.dev.json
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Data\bin\Debug\netcoreapp2.1\RestoranReservation.Data.dll
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Data\bin\Debug\netcoreapp2.1\RestoranReservation.Data.pdb
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.csproj.CoreCompileInputs.cache
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.AssemblyInfoInputs.cache
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.AssemblyInfo.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.dll
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.pdb
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.csprojAssemblyReference.cache
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\bin\Debug\netcoreapp2.1\RestoranReservation.Data.deps.json
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\bin\Debug\netcoreapp2.1\RestoranReservation.Data.runtimeconfig.json
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\bin\Debug\netcoreapp2.1\RestoranReservation.Data.runtimeconfig.dev.json
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\bin\Debug\netcoreapp2.1\RestoranReservation.Data.dll
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\bin\Debug\netcoreapp2.1\RestoranReservation.Data.pdb
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.csprojAssemblyReference.cache
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.csproj.CoreCompileInputs.cache
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.AssemblyInfoInputs.cache
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.AssemblyInfo.cs
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.dll
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Debug\netcoreapp2.1\RestoranReservation.Data.pdb

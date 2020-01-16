@@ -1,0 +1,68 @@
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.deps.json
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.runtimeconfig.json
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.runtimeconfig.dev.json
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.dll
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.pdb
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.Views.dll
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.Views.pdb
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Data.dll
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Data.pdb
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.csprojAssemblyReference.cache
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.csproj.CoreCompileInputs.cache
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.RazorAssemblyInfo.cache
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.RazorAssemblyInfo.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.AssemblyInfoInputs.cache
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.AssemblyInfo.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.TagHelpers.input.cache
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.TagHelpers.output.cache
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.RazorCoreGenerate.cache
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\Razor\Views\Autentifikacija\Index.g.cshtml.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\TestDB.g.cshtml.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\Razor\Views\Sesija\Index.g.cshtml.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutAnonim.g.cshtml.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.Views.pdb
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.csproj.CopyComplete
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.dll
+C:\Users\Enida Obradovic\Downloads\Restaurant-Reservation-WebAPI-master\RestaurantReservation.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.pdb
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.deps.json
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.runtimeconfig.json
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.runtimeconfig.dev.json
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.dll
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.pdb
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.Views.dll
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Web.Views.pdb
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Data.dll
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\bin\Debug\netcoreapp2.1\RestaurantReservation.Data.pdb
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.csprojAssemblyReference.cache
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.csproj.CoreCompileInputs.cache
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.RazorAssemblyInfo.cache
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.RazorAssemblyInfo.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.AssemblyInfoInputs.cache
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.AssemblyInfo.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.TagHelpers.input.cache
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.TagHelpers.output.cache
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.RazorCoreGenerate.cache
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\Razor\Views\Autentifikacija\Index.g.cshtml.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\TestDB.g.cshtml.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\Razor\Views\Sesija\Index.g.cshtml.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutAnonim.g.cshtml.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.RazorTargetAssemblyInfo.cache
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.RazorTargetAssemblyInfo.cs
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.Views.pdb
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.csproj.CopyComplete
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.dll
+C:\RS1 API\OneDrive_2019-09-12 (1)\Hotel-Reservation-WebAPI-master\Hotel.Web\obj\Debug\netcoreapp2.1\RestaurantReservation.Web.pdb

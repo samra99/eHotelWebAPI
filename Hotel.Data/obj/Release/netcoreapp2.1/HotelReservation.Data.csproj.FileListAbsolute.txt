@@ -1,0 +1,11 @@
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\bin\Release\netcoreapp2.1\HotelReservation.Data.deps.json
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\bin\Release\netcoreapp2.1\HotelReservation.Data.runtimeconfig.json
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\bin\Release\netcoreapp2.1\HotelReservation.Data.runtimeconfig.dev.json
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\bin\Release\netcoreapp2.1\HotelReservation.Data.dll
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\bin\Release\netcoreapp2.1\HotelReservation.Data.pdb
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Release\netcoreapp2.1\HotelReservation.Data.csprojAssemblyReference.cache
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Release\netcoreapp2.1\HotelReservation.Data.csproj.CoreCompileInputs.cache
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Release\netcoreapp2.1\HotelReservation.Data.AssemblyInfoInputs.cache
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Release\netcoreapp2.1\HotelReservation.Data.AssemblyInfo.cs
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Release\netcoreapp2.1\HotelReservation.Data.dll
+C:\Users\enida\Downloads\eHotelWebAPI-master\Hotel.Data\obj\Release\netcoreapp2.1\HotelReservation.Data.pdb
